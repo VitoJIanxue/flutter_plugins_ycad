@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b6fab236-8f4d-4650-beac-8f9521a99d37" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/android/libs/adsdk.aar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/flutter_plugin_ycad/android/libs/adsdk.aar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/flutter_plugin_ycad/ios/Classes/libSspAdSdk2.7.4.a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Classes/libSspAdSdk2.7.4.a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/libs/adsdk-release.aar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/src/main/java/com/yixin/flutter_plugin_ycad/FlutterPluginYcadPlugin.java" beforeDir="false" afterPath="$PROJECT_DIR$/android/src/main/java/com/yixin/flutter_plugin_ycad/FlutterPluginYcadPlugin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/.symlinks/plugins/flutter_plugin_ycad/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/flutter_plugin_ycad/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/.symlinks/plugins/flutter_plugin_ycad/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/flutter_plugin_ycad/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/.symlinks/plugins/flutter_plugin_ycad/android/libs/adsdk-release.aar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/.symlinks/plugins/flutter_plugin_ycad/example/ios/Podfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/flutter_plugin_ycad/example/ios/Podfile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/.symlinks/plugins/flutter_plugin_ycad/example/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/flutter_plugin_ycad/example/lib/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/.symlinks/plugins/flutter_plugin_ycad/ios/Classes/ADMobiReqModel.h" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/flutter_plugin_ycad/ios/Classes/ADMobiReqModel.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/.symlinks/plugins/flutter_plugin_ycad/ios/Classes/FlutterPluginYcadPlugin.m" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/flutter_plugin_ycad/ios/Classes/FlutterPluginYcadPlugin.m" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/.symlinks/plugins/flutter_plugin_ycad/ios/Classes/YCMobiSDK.h" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/flutter_plugin_ycad/ios/Classes/YCMobiSDK.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/.symlinks/plugins/flutter_plugin_ycad/ios/Classes/libSspAdSdk2.5.6.a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/.symlinks/plugins/flutter_plugin_ycad/ios/flutter_plugin_ycad.podspec" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/flutter_plugin_ycad/ios/flutter_plugin_ycad.podspec" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/.symlinks/plugins/flutter_plugin_ycad/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/flutter_plugin_ycad/pubspec.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/Podfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/Podfile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/example/lib/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Classes/ADMobiReqModel.h" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Classes/ADMobiReqModel.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Classes/FlutterPluginYcadPlugin.m" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Classes/FlutterPluginYcadPlugin.m" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Classes/YCMobiSDK.h" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Classes/YCMobiSDK.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Classes/libSspAdSdk2.5.6.a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/flutter_plugin_ycad.podspec" beforeDir="false" afterPath="$PROJECT_DIR$/ios/flutter_plugin_ycad.podspec" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1qsdKZ6xoeOH4C5muSNfRsuntTt" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/android/libs" />
+      <recent name="$PROJECT_DIR$/ios/Classes" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="filePath" value="$PROJECT_DIR$/example/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b6fab236-8f4d-4650-beac-8f9521a99d37" name="Default Changelist" comment="" />
+      <created>1617872168053</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1617872168053</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="107" y="44" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1617872250770">
+      <screen x="0" y="23" width="1280" height="736" />
+    </state>
+    <state x="107" y="44" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1280.736/1280.-197.1920.1057@0.23.1280.736" timestamp="1617872250770" />
+    <state width="1238" height="190" key="GridCell.Tab.0.bottom" timestamp="1617936787664">
+      <screen x="0" y="23" width="1280" height="736" />
+    </state>
+    <state width="1238" height="190" key="GridCell.Tab.0.bottom/0.23.1280.736/1280.-197.1920.1057@0.23.1280.736" timestamp="1617936787664" />
+    <state width="1238" height="190" key="GridCell.Tab.0.center" timestamp="1617936787663">
+      <screen x="0" y="23" width="1280" height="736" />
+    </state>
+    <state width="1238" height="190" key="GridCell.Tab.0.center/0.23.1280.736/1280.-197.1920.1057@0.23.1280.736" timestamp="1617936787663" />
+    <state width="1238" height="190" key="GridCell.Tab.0.left" timestamp="1617936787662">
+      <screen x="0" y="23" width="1280" height="736" />
+    </state>
+    <state width="1238" height="190" key="GridCell.Tab.0.left/0.23.1280.736/1280.-197.1920.1057@0.23.1280.736" timestamp="1617936787662" />
+    <state width="1238" height="190" key="GridCell.Tab.0.right" timestamp="1617936787664">
+      <screen x="0" y="23" width="1280" height="736" />
+    </state>
+    <state width="1238" height="190" key="GridCell.Tab.0.right/0.23.1280.736/1280.-197.1920.1057@0.23.1280.736" timestamp="1617936787664" />
+  </component>
+</project>

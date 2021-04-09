@@ -1,8 +1,7 @@
 name: flutter_plugin_ycad
-description: A new Flutter plugin.
-version: 0.0.1
-author:
-homepage:
+description: 易车广告SDK插件(iOS，Android).
+version: 0.0.2
+homepage: https://github.com/VitoJIanxue/flutter_plugins_ycad.git
 
 environment:
   sdk: ">=2.7.0 <3.0.0"

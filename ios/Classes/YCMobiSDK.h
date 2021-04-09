@@ -31,7 +31,24 @@ typedef void(^YCSuccessBlock)(UIView *uiview,ADBean *adBean);
 /**
  *  同步dvid 用于更新id
  */
-+ (void)synchronizeForDvid:(NSString *)dvid ;
++ (void)synchronizeForDvid:(NSString *)dvid;
+/**
+ *  同步uid
+ */
++ (void)synchronizeForUid:(NSString *)uid;
+/**
+ *  同步idfa
+ */
++ (void)synchronizeForIDFA:(NSString *)idfa;
+/**
+ *  同步idfv
+ */
++ (void)synchronizeForIDFV:(NSString *)idfv;
+
+/**
+ *  同步关闭的广告id
+ */
++ (void)synchronizeForClosedAdId:(NSString *)closedAdId;
 
 /**
  *   获取广告 ：只要接口调用成功, resultBlock 的 Bool 就返 回 YES。可根据 dataArray 的 count 值判断此广告位 有无物料。

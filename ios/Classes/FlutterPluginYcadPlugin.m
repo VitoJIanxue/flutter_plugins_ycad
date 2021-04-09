@@ -1,5 +1,4 @@
 #import "FlutterPluginYcadPlugin.h"
-#import "AFNetworking.h"
 #import "YCMobiSDK.h"
 #import "MJExtension.h"
 

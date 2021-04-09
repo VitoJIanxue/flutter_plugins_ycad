@@ -92,8 +92,6 @@ public class FlutterPluginYcadPlugin implements FlutterPlugin, MethodCallHandler
                     AdBean bb = new Gson().fromJson(json, AdBean.class);
                     result.success(json1);
 
-
-
                 }
 
                 @Override

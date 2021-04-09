@@ -16,9 +16,8 @@ A new Flutter plugin.
   s.source_files = 'Classes/**/*'
   s.public_header_files = 'Classes/**/*.h'
   s.dependency 'Flutter'
-  s.dependency  "AFNetworking"
   s.dependency  "MJExtension"
-  s.vendored_libraries   = 'Classes/libSspAdSdk2.5.6.a'
+  s.vendored_libraries   = 'Classes/libSspAdSdk2.7.4.a'
   s.platform = :ios, '8.0'
 
   # Flutter.framework does not contain a i386 slice.

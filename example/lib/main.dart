@@ -11,7 +11,6 @@ void reportErrorAndLog(FlutterErrorDetails details) {
   print(details);
   Zone.current.handleUncaughtError(details.exception, details.stack);
   print("... //上报错误和日志逻辑");
-
 }
 
 FlutterErrorDetails makeDetails(Object obj, StackTrace stack) {

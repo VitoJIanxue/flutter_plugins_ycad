@@ -22,10 +22,10 @@
 //广告位省份ID或城市ID描述 （非必传，默认为 1）
 @property (readonly, nonatomic, copy) YCAdSizeModel * (^areaId)(NSString *areaId);
 
-//广告位的品牌ID描述，按易车网品牌库标准传递，（非必传，默认为 0）
+//广告位的品牌ID描述，按易车品牌库标准传递，（非必传，默认为 0）
 @property (readonly, nonatomic, copy) YCAdSizeModel * (^brandId)(NSString *brandId);
 
-//广告位的车型ID描述，按易车网车型库标准传递，（非必传，默认为 0）
+//广告位的车型ID描述，按易车车型库标准传递，（非必传，默认为 0）
 @property (readonly, nonatomic, copy) YCAdSizeModel * (^modelId)(NSString * modelId);
 
 //广告位的关键词，字符串以utf-8编码，获取无效可传空数组,非必传
